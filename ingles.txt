@@ -1,0 +1,65 @@
+hey man, all good?
+wassup gang? 													
+
+
+
+1.it is very important
+2.we are ready to study
+3.she is my teacher
+4.i am from brazil
+5.they are students in the course
+6. he is in the lab now
+7.i am your new friend
+8.you are connected to wifi
+
+
+1.Do you write code every day?
+2.Does the API return JSON?
+3.Do developers use Git?
+4.Does she fix bugs?
+5.Does the system process data?
+
+
+1.I did my homework yesterday.
+2.She did fix the bug quickly.
+3.We did test the application.
+4.They did finish the project on time.
+5.He did learn a lot last year.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
+1.Developers don’t use SVN.
+2.The API doesn’t return XML.
+3.She doesn’t write backend code.
+4.The system doesn’t store passwords.
+5.The server doesn’t process requests
+
+1.We didn’t test the system.
+2.The server didn’t restart.
+3.She didn’t fix the bug.
+4.They didn’t push the code.
+5.The API didn’t respond.
+
+1.Do developers use Docker?
+2.Does the server run Linux?
+3.Does she write documentation?
+4.Do they deploy applications?
+5.Does the system store data?
+
+
+Do I code every day? No, not every day.
+I am a bit lazy, but I get things done.
+Did I learn programming recently? Yes, I did.
+I have been learning for about 5 months.
+When I make mistakes, I keep looking until I find the error in the code.
+Do I test my code? Yes, sometimes.
+I sometimes try to focus and improve.
+Programming is important for my future.
+
+
+
+
+
+
+
+
+
+
